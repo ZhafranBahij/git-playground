@@ -5,3 +5,10 @@ print(test)
 ```
 
 Code by daffa
+
+## Data diri ##
+
+Muhammad Hadiid Faathir
+Computer Science'21
+
+nama saya Kenneth
