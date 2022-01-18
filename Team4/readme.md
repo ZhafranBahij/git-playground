@@ -10,3 +10,5 @@ Code by daffa
 
 Muhammad Hadiid Faathir
 Computer Science'21
+
+nama saya Kenneth
